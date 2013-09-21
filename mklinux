@@ -1,0 +1,1 @@
+gcc -ocheapo -lm -O2 main.c proxy.c cmd.c misc.c compress.c
